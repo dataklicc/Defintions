@@ -1,0 +1,12 @@
+Numeric: Data that are expressed on a numeric scale.
+
+Continuous:Data that can take on any value in an interval (Synonym interval, float,numeric)
+
+Discrete:Data that can take on only integer values, such as counts. (Synonymu integer,count)
+
+Categorical: Data that can take on only a specific set of values representing a set of possible categories (Synonyme enums, enumerated, factors, nominal)
+
+Binary: A special case of categorical data with just two categories of values, eg, 0/1, true/false. (Synonyms dichotomous, logical, indicator, boolean)
+
+Ordinal: Categorical data that has an explicit ordering (Synonym: ordered factor)
+
